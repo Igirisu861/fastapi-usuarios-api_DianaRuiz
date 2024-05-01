@@ -7,4 +7,4 @@ gunicorn
 websockets
 wrapt
 python-dotenv
-asyncio
+uvloop
